@@ -1,6 +1,6 @@
 # Astronomical Images and Spectra
 
-A walk-through Jupyter Notebook that provides an introduction to astronomical data.
+An interactive walk-through Jupyter Notebook that provides an introduction to astronomical data.
 
 ## Structure
 
